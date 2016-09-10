@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Retrofit V2.0.0</string>
+    <string name="read_res_header">Read Response Header</string>
+    <string name="plain_string_res">Plain String Response</string>
+    <string name="dynamic_replacement">Dynamic Replacement</string>
+    <string name="json_obj_with_header">Request JSON Obj with Header</string>
+    <string name="json_obj_with_body">Request JSON Obj with Body</string>
+    <string name="json_array">Return JSON Array</string>
+    <string name="return_json_obj">Return JSON Object</string>
+    <string name="retrofit_title_demo">Retrofit V2.0.0beta Sample</string>
+    <string name="nested_json">Nestted JSON request</string>
+</resources>

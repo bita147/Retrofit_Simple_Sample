@@ -62,7 +62,7 @@ public class SimpleJsonObject implements Serializable {
         return null;
     }
 
-    public String set(String pramName) {
+    public String set(String paramName) {
         return pramName;
     }
 }

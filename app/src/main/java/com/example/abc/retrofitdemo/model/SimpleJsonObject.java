@@ -58,7 +58,15 @@ public class SimpleJsonObject implements Serializable {
         return gender;
     }
 
+
+    public String getMy(String paramName) {
+
     public String getAll(String paramName) {
+
         return null;
+    }
+
+    public String set(String paramName) {
+        return pramName;
     }
 }

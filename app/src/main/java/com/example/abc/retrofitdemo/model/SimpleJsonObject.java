@@ -61,4 +61,8 @@ public class SimpleJsonObject implements Serializable {
     public String getAll(String paramName) {
         return null;
     }
+
+    public String set(String paramName) {
+        return pramName;
+    }
 }
